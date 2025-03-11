@@ -345,7 +345,17 @@ p {
 .right h2 {
     color: #0D0E43;
 }
-
+.right{
+    button{
+        margin-top: 30px;
+        width: 157px;
+        height: 44px;
+        background: #FB2E86;
+        border: none;
+        color: #fff;
+        border-radius: 10px;
+    }
+}
 .contact-form {
     display: flex;
     flex-direction: column;
